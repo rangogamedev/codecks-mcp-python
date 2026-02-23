@@ -5,6 +5,10 @@ MCP server for [Codecks](https://codecks.io) project management. Exposes 38 tool
 ## Install
 
 ```bash
+# 1. Install codecks-cli (required dependency)
+pip install git+https://github.com/rangogamedev/codecks-cli.git
+
+# 2. Install this MCP server
 pip install codecks-mcp
 ```
 

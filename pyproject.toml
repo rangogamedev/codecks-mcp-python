@@ -10,7 +10,6 @@ readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
 dependencies = [
-  "codecks-cli @ git+https://github.com/rangogamedev/codecks-cli.git",
   "mcp[cli]>=1.6.0",
 ]
 authors = [{name = "rangogamedev"}]
